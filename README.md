@@ -19,3 +19,4 @@ v1.0
 ## Author
 
 Kerem
+<img src="images/foto.jpg" alt="Beschrijving van de afbeelding">
